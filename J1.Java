@@ -11,7 +11,7 @@ public class XC {
 		int n1 = sc.nextInt();
 		for (int i = 0 ; i<= 2; i++) {
 
-			System.out.print("請在輸入一次密碼:" );
+			System.out.print("請再輸入一次密碼:" );
 			int n2 = sc.nextInt();
 			if  (n1 == n2) {
 				System.out.print("密碼正確");
